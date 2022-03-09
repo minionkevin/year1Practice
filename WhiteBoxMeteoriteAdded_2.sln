@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoxMeteoriteAdded_2.CSharp", "WhiteBoxMeteoriteAdded_2.CSharp.csproj", "{47D355E6-9058-47E9-85BE-4AC7A8196542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D355E6-9058-47E9-85BE-4AC7A8196542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D355E6-9058-47E9-85BE-4AC7A8196542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D355E6-9058-47E9-85BE-4AC7A8196542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D355E6-9058-47E9-85BE-4AC7A8196542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

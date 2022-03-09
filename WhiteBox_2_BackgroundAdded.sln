@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBox_2_BackgroundAdded.CSharp", "WhiteBox_2_BackgroundAdded.CSharp.csproj", "{99FEB019-95DB-2884-07A9-2C83E17D05E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FEB019-95DB-2884-07A9-2C83E17D05E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FEB019-95DB-2884-07A9-2C83E17D05E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FEB019-95DB-2884-07A9-2C83E17D05E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FEB019-95DB-2884-07A9-2C83E17D05E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
